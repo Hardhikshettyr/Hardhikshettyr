@@ -39,4 +39,4 @@
 
 </br>
 
-> 💬 “Break things. Build better. Learn daily.”
+> 💬 “Fuck miracles. I build results.”
