@@ -35,7 +35,7 @@
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hardhik-shetty-r/) 
-- ✉️ [charanntm.dev@gmail.com](mailto:hardhikshetty1771@gmail.com)
+- ✉️ [hardhikshetty1771@gmail.com](mailto:hardhikshetty1771@gmail.com)
 
 </br>
 
