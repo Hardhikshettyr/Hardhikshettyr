@@ -34,7 +34,7 @@
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](www.linkedin.com/in/hardhik-shetty-r) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hardhik-shetty-r/) 
 - ✉️ [charanntm.dev@gmail.com](mailto:charanntm.dev@gmail.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
