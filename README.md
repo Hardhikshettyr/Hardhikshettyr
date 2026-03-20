@@ -35,6 +35,8 @@
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hardhik-shetty-r/) 
-- ✉️ [charanntm.dev@gmail.com](mailto:charanntm.dev@gmail.com)
+- ✉️ [charanntm.dev@gmail.com](mailto:hardhikshetty1771@gmail.com)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</br>
+
+> 💬 “Break things. Build better. Learn daily.”
