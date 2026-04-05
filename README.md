@@ -29,7 +29,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hardhikshettyr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardhikshettyr&theme=dark" alt="hardhikshettyr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hardhikshettyr&theme=dark" alt="hardhikshettyr" /></p>
 
 
 ## 📫 Let's Connect
