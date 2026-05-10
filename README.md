@@ -8,7 +8,7 @@
  
  -  💻 Building in **Java, Spring Boot, React, SQL, AI Tools**
  
- -  📑 Check out my resume here - <a href="https://drive.google.com/file/d/1GW-EWpdpXP7AfMbWhX-tjcvr54Z7YzOe/view?usp=drivesdk">My Resume</a>
+ -  📑 Check out my resume here - <a href="https://drive.google.com/file/d/1KKPsE5h-dHmSbeZGE4vuXsNMt_qrENc4/view?usp=drivesdk">My Resume</a>
 
 
 # 💻 Tech Stack: 
