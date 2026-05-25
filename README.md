@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Hardhik Shetty R</h1>
 
-<h4 align="center">Building Scalable Web Applications | Java Full Stack | DSA | AI-Based Projects</h4>
+<h4 align="center">Building Scalable Web Applications | MERN Stack | DSA | AI-Based Projects</h4>
 <p align = 'left'> <img src="https://komarev.com/ghpvc/?username=Hardhikshettyr&label=PROFILE+VIEWS"/></p>
 
 
