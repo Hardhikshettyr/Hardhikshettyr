@@ -6,7 +6,7 @@
 
  -  🎓 Pursuing **Computer Science and Engineering**  
  
- -  💻 Building in **Java, MERN, React, SQL, AI Tools**
+ -  💻 Building in **Java, MERN, SQL, AI Tools**
  
  -  📑 Check out my resume here - <a href="https://drive.google.com/file/d/1KKPsE5h-dHmSbeZGE4vuXsNMt_qrENc4/view?usp=drivesdk">My Resume</a>
 
