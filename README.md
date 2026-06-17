@@ -51,4 +51,4 @@
 
 </br>
 
-> 💬 “Fuck miracles. I build results.”
+
