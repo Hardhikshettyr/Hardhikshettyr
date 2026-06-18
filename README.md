@@ -44,7 +44,7 @@
 
 
 
-## 📫 Let's Connect
+## 📫 Let's Connect 
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hardhik-shetty-r/) 
 - ✉️ [hardhikshetty1771@gmail.com](mailto:hardhikshetty1771@gmail.com)
